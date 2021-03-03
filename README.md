@@ -25,12 +25,12 @@
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
 
-#### 🗄 &nbsp;Databases: <br />
+#### Databases: <br />
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![H2](https://img.shields.io/badge/Database-H2-05122A?style=flat&logo)
 
-#### 💻 &nbsp;OS & IDE & Tools: <br />
+#### OS & IDE & Tools: <br />
 
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=macos)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
