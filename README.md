@@ -32,6 +32,8 @@
 
 #### Tools: <br />
 
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
+![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello)
 ![IntelliJ](https://img.shields.io/badge/IDE-IntelliJIDEA-black?style=flat-square&logo=intellij)
 ![VSCode](https://img.shields.io/badge/IDE-VSCode-black?style=flat-square&logo=vscode)
 ![Pycharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)
