@@ -19,11 +19,11 @@
 
 #### Frontend: <br />
 
-![React](https://img.shields.io/badge/-React-grey?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-grey?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS-grey?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?style=flat&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 
 #### Databases: <br />
 
@@ -32,16 +32,16 @@
 
 #### Tools: <br />
 
-![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
-![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello)
-![IntelliJ](https://img.shields.io/badge/IDE-IntelliJIDEA-black?style=flat-square&logo=intellij)
-![VSCode](https://img.shields.io/badge/IDE-VSCode-black?style=flat-square&logo=vscode)
-![Pycharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=macos)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat-square&logo=jira)
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat-square&logo=trello)
+![IntelliJ](https://img.shields.io/badge/IDE-IntelliJIDEA-05122A?style=flat-square&logo=intellij)
+![VSCode](https://img.shields.io/badge/IDE-VSCode-05122A?style=flat-square&logo=vscode)
+![Pycharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat-square&logo=pycharm)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=postman)
+![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat-square&logo=macos)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=ubuntu)
 
 
 ### GitHub Stats
