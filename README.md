@@ -48,8 +48,8 @@
 
 <p>
   <a href="https://github.com/Skipp-it">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skipp-it&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Skipp-it&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Skipp-it&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Skipp-it&layout=compact&langs_count=8&theme=buefy"/>
   </a>
 </p>
 
