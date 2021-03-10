@@ -19,11 +19,11 @@
 
 #### Frontend: <br />
 
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-grey?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-grey?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS-grey?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?style=flat&logo=bootstrap)
 
 #### Databases: <br />
 
