@@ -4,18 +4,18 @@
 
 #### Backend: <br />
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=spring)
-![Spring Security](https://img.shields.io/badge/-SpringSecurity-05122A?style=flat&logo=spring)
-![Hibernate](https://img.shields.io/badge/ORM-Hibernate-05122A?style=flat&logo)
-![JPA](https://img.shields.io/badge/ORM-JPA-05122A?style=flat&logo)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=blue)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Kubernates](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
-![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)
-![Eureka](https://img.shields.io/badge/DiscoveryService-Eureka-05122A?style=flat&logo=netflix&logoColor=FFA518)
-![ZUUL](https://img.shields.io/badge/ApiGateway-ZUUL-05122A?style=flat&logo=netflix&logoColor=FFA518)
+![Java](https://img.shields.io/badge/-Java-white?style=flat&logo=java&logoColor=FFA518)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-white?style=flat&logo=spring)
+![Spring Security](https://img.shields.io/badge/-SpringSecurity-white?style=flat&logo=spring)
+![Hibernate](https://img.shields.io/badge/ORM-Hibernate-white?style=flat&logo)
+![JPA](https://img.shields.io/badge/ORM-JPA-white?style=flat&logo)
+![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python&logoColor=blue)
+![Flask](https://img.shields.io/badge/-Flask-white?style=flat&logo=flask)
+![Docker](https://img.shields.io/badge/-Docker-white?style=flat&logo=docker)
+![Kubernates](https://img.shields.io/badge/-Kubernetes-white?style=flat&logo=kubernetes)
+![Swagger](https://img.shields.io/badge/-Swagger-white?style=flat&logo=swagger)
+![Eureka](https://img.shields.io/badge/DiscoveryService-Eureka-white?style=flat&logo=netflix&logoColor=FFA518)
+![ZUUL](https://img.shields.io/badge/ApiGateway-ZUUL-white?style=flat&logo=netflix&logoColor=FFA518)
 
 #### Frontend: <br />
 
