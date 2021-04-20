@@ -57,6 +57,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mihai-croitoru)](www.linkedin.com/in/mihai-croitoru)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=plastic&logo=Gmail&logoColor=white&link=mailto:mihairaducroitoru@gmail.com)](mailto:mihairaducroitoru@gmail.com)
-[![GITHUB](https://www.codewars.com/users/jhoffner/badges/micro)
+[![GITHUB](https://www.codewars.com/users/Skipp-it/badges/micro)
 
 
