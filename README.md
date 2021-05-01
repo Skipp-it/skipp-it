@@ -12,7 +12,6 @@
 ![Python](https://img.shields.io/badge/-Python-565656?style=plastic&logo=python&logoColor=blue)
 ![Flask](https://img.shields.io/badge/-Flask-565656?style=plastic&logo=flask)
 ![Docker](https://img.shields.io/badge/-Docker-565656?style=plastic&logo=docker)
-![Kubernates](https://img.shields.io/badge/-Kubernetes-565656?style=plastic&logo=kubernetes)
 ![Swagger](https://img.shields.io/badge/-Swagger-565656?style=plastic&logo=swagger)
 ![Eureka](https://img.shields.io/badge/DiscoveryService-Eureka-565656?style=plastic&logo=netflix&logoColor=FFA518)
 ![ZUUL](https://img.shields.io/badge/ApiGateway-ZUUL-565656?style=plastic&logo=netflix&logoColor=FFA518)
