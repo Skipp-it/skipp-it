@@ -21,6 +21,7 @@
 
 ![React](https://img.shields.io/badge/-React-565656?style=plastic&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-565656?style=plastic&logo=javascript)
+![Angular](https://img.shields.io/badge/-Angular-565656?style=plastic&logo=angular)
 ![HTML5](https://img.shields.io/badge/-HTML5-565656?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS-565656?style=plastic&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-565656?style=plastic&logo=bootstrap)
