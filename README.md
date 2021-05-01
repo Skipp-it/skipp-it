@@ -12,7 +12,6 @@
 ![Python](https://img.shields.io/badge/-Python-565656?style=plastic&logo=python&logoColor=blue)
 ![Flask](https://img.shields.io/badge/-Flask-565656?style=plastic&logo=flask)
 ![Docker](https://img.shields.io/badge/-Docker-565656?style=plastic&logo=docker)
-![Swagger](https://img.shields.io/badge/-Swagger-565656?style=plastic&logo=swagger)
 ![Eureka](https://img.shields.io/badge/DiscoveryService-Eureka-565656?style=plastic&logo=netflix&logoColor=FFA518)
 ![ZUUL](https://img.shields.io/badge/ApiGateway-ZUUL-565656?style=plastic&logo=netflix&logoColor=FFA518)
 
@@ -34,6 +33,7 @@
 
 ![Jira](https://img.shields.io/badge/-Jira-565656?style=plastic-square&logo=jira)
 ![Trello](https://img.shields.io/badge/-Trello-565656?style=plastic-square&logo=trello)
+![Swagger](https://img.shields.io/badge/-Swagger-565656?style=plastic&logo=swagger)
 ![IntelliJ](https://img.shields.io/badge/IDE-IntelliJIDEA-565656?style=plastic-square&logo=intellij)
 ![VSCode](https://img.shields.io/badge/IDE-VSCode-565656?style=plastic-square&logo=vscode)
 ![Pycharm](https://img.shields.io/badge/-PyCharm-565656?style=plastic-square&logo=pycharm)
